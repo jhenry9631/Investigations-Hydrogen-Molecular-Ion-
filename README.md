@@ -15,4 +15,4 @@ F.A. Matsen (1953), The United Atom Treatment of $H^+_2$
 
 M. Abramowitz; et al. (1964), Handbook of Mathematical Functions
 
-We have included the diagrams, as well as the python code to generate these. See "main (2).py"
+We have included the diagrams (with some additional ones) as well as the python code to generate these. See Code for Figure 1.
